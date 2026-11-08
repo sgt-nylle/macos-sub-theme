@@ -1,0 +1,7 @@
+# Sub Theme (Gotland Navy) for AeroSpace + JankyBorders on macOS
+# Matches hyprland_active_border and hyprland_inactive_border from omarchy-sub-theme/colors.toml
+# Add to ~/.aerospace.toml under `after-startup-command`:
+
+after-startup-command = [
+  'exec-and-forget borders active_color="gradient(top_left=0xee38bdf8,bottom_right=0xccfecc02)" inactive_color=0xaa1b457d width=4.0 style=round'
+]

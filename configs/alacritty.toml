@@ -1,0 +1,50 @@
+# Sub Theme (Gotland Navy) for Alacritty on macOS
+# Ported from https://github.com/sgt-nylle/omarchy-sub-theme
+# Import in ~/.config/alacritty/alacritty.toml via:
+# general.import = ["~/.config/alacritty/sub-theme.toml"]
+
+[colors.primary]
+background = "#07162c"
+foreground = "#e2eeff"
+bright_foreground = "#f8fbff"
+dim_foreground = "#5b82b8"
+
+[colors.cursor]
+text = "#07162c"
+cursor = "#f8fbff"
+
+[colors.vi_mode_cursor]
+text = "#07162c"
+cursor = "#38bdf8"
+
+[colors.selection]
+text = "#f8fbff"
+background = "#164682"
+
+[colors.search.matches]
+foreground = "#040e1d"
+background = "#38bdf8"
+
+[colors.search.focused_match]
+foreground = "#040e1d"
+background = "#fecc02"
+
+[colors.normal]
+black   = "#040e1d"
+red     = "#ff5c5c"
+green   = "#34d399"
+yellow  = "#fecc02"
+blue    = "#5494f7"
+magenta = "#a78bfa"
+cyan    = "#38bdf8"
+white   = "#e2eeff"
+
+[colors.bright]
+black   = "#5b82b8"
+red     = "#ff8585"
+green   = "#4ade80"
+yellow  = "#fde047"
+blue    = "#82b5ff"
+magenta = "#c4b5fd"
+cyan    = "#67e8f9"
+white   = "#f8fbff"
