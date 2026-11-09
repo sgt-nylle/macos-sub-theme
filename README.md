@@ -153,7 +153,6 @@ Switch between any of the **4 included `2736×1824` Cold War bluedark wallpapers
 
 ## Attribution & Related Projects
 
-- **Matrix Community Room (`#subwrite:subwrite.se`):** [https://chat.subwrite.se/#/room/#subwrite:subwrite.se](https://chat.subwrite.se/#/room/#subwrite:subwrite.se) (or via [matrix.to](https://matrix.to/#/#subwrite:subwrite.se))
 - **Original Linux / Omarchy Theme:** [`sgt-nylle/omarchy-sub-theme`](https://github.com/sgt-nylle/omarchy-sub-theme)
 - **Windows 11 Port:** [`sgt-nylle/windows-sub-theme`](https://github.com/sgt-nylle/windows-sub-theme)
 - **SubWrite (Submarine Typing Game):** [https://subwrite.se](https://subwrite.se) ([`sgt-nylle/subwrite`](https://github.com/sgt-nylle/subwrite))
