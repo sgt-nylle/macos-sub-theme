@@ -2,7 +2,7 @@
 
 **Swedish Navy (*Kungliga Flottan*) · HSwMS Gotland (A19) · Cold War Bluedark, Sonar Cyan & Swedish Gold — for macOS.**
 
-A native, zero-SIP-modification **macOS** port of [`sgt-nylle/omarchy-sub-theme`](https://github.com/sgt-nylle/omarchy-sub-theme), inspired by [SubWrite](https://subwrite.se), [TechTools](https://techtools.subwrite.se), Sweden's **Gotland-class (A19) Stirling AIP submarine (`HSwMS Gotland`)**, and classic Cold War submarine cinema (*The Hunt for Red October*).
+A native, zero-SIP-modification **macOS** port of [`sgt-nylle/omarchy-sub-theme`](https://github.com/sgt-nylle/omarchy-sub-theme), inspired by [SubWrite](https://subwrite.se), [TechTools](https://techtools.subwrite.se), Sweden's **Gotland-class (A19) Stirling AIP submarine (`HSwMS Gotland`)**, and clean naval acoustics and submarine operations.
 
 > [!NOTE]
 > **No SIP (System Integrity Protection) disabling or private framework injection required.**
@@ -59,7 +59,7 @@ Switch between any of the **4 included `2736×1824` Cold War bluedark wallpapers
 ```bash
 # 1 = Stockholm Archipelago Night Departure (Default)
 # 2 = HSwMS Gotland Naval Intelligence Blueprint
-# 3 = Baltic Thermocline — Silent Running (Hunt for Red October Vibe)
+# 3 = Baltic Thermocline — Silent Running (Clean Tactical Vibe)
 # 4 = Periscope Convoy Torpedo Salvo (Cold War Bluedark Twilight)
 ./apply-theme.sh --wallpaper 3
 ```
@@ -82,7 +82,7 @@ Switch between any of the **4 included `2736×1824` Cold War bluedark wallpapers
         <img src="backgrounds/02-hms-gotland-tactical-blueprint.png" alt="02 — HSwMS Gotland Naval Intelligence Blueprint" width="100%">
       </a>
       <br><b>02 · HSwMS Gotland (A19) Naval Intelligence Blueprint</b>
-      <br>Deep bluedark naval engineering &amp; intelligence plate with internal torpedo reload skids, battery &amp; Stirling AIP compartments, escape trunks, acoustic polar signature rose, a ghosted Cold War Project 941 Typhoon (<i>Red October</i>, 175 m) scale comparison profile, and three cross-sections.
+      <br>Deep bluedark naval engineering &amp; intelligence plate with internal torpedo reload skids, battery &amp; Stirling AIP compartments, escape trunks, acoustic polar signature rose, a ghosted Cold War Project 941 Typhoon (175 m) scale comparison profile, and three cross-sections.
     </td>
   </tr>
   <tr>
@@ -90,7 +90,7 @@ Switch between any of the **4 included `2736×1824` Cold War bluedark wallpapers
       <a href="backgrounds/03-baltic-sonar-silent-running.png">
         <img src="backgrounds/03-baltic-sonar-silent-running.png" alt="03 — Baltic Thermocline Silent Running" width="100%">
       </a>
-      <br><b>03 · Baltic Thermocline — Silent Running (<i>Hunt for Red October</i> Vibe)</b>
+      <br><b>03 · Baltic Thermocline — Silent Running (Clean Tactical Vibe)</b>
       <br>Deep abyssal bluedark cat-and-mouse scene below the halocline: <i>HSwMS Gotland</i> in full anechoic-tiled stealth trim with red-rigged conn windows and CSU 90-2 flank hydrophone staves pinging a massive Project 941 Typhoon-class submarine lurking in the distant sonar shadow.
     </td>
     <td width="50%" align="center">
@@ -114,7 +114,7 @@ Switch between any of the **4 included `2736×1824` Cold War bluedark wallpapers
 | **Darker Background** | Tab Bar Scrim | `#020812` | `0.008, 0.031, 0.071` | Keel Black-Navy Scrim |
 | **Elevated Surface** | Cursor Guide | `#0F2B52` | `0.059, 0.169, 0.322` | Elevated Navy Card / Cursor Line |
 | **Selection** | `selection` / Highlight | `#164682` | `0.086, 0.275, 0.510` | Tactical Navy Selection Highlight |
-| **Frame Hairline** | Inactive Border | `#1B457D` | `0.106, 0.271, 0.490` | C64 Navy Frame Hairline |
+| **Frame Hairline** | Inactive Border | `#1B457D` | `0.106, 0.271, 0.490` | Clean Navy Frame Hairline |
 | **Primary Accent** | `cyan` (`Ansi 6`) | `#38BDF8` | `0.220, 0.741, 0.973` | Periscope & Sonar Telemetry Cyan |
 | **Bright Cyan** | `brightCyan` (`Ansi 14`) | `#67E8F9` | `0.404, 0.910, 0.976` | Active Hydrophone Pulse Cyan |
 | **Foreground** | `foreground` (`Ansi 7`) | `#E2EEFF` | `0.886, 0.933, 1.000` | Crisp Naval Readout White-Blue |
